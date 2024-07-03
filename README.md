@@ -1,15 +1,21 @@
 # Build and Deploy a Github-like App | React, MongoDB, Express.js, Passport.js
 
-Some Features:
 
--  Tech stack: MERN + TailwindCSS + Github API
+### Deployed Link
+https://repohub-pao9.onrender.com
+
+### Technologies used
+-  MERN 
+-  TailwindCSS 
+-  Github API
 -  Authentication && Authorization with Passport.js (Github Auth)
+
+### Features
 -  Fetch Github User Profiles and Repos
 -  Filter Repos on the Client
--  Learn behind the scenes for authentication
--  Error handling (both on the server and on the client)
--  At the end DEPLOY like a pro for FREE!
--  And much more!
+-  Sort Repos based on recent,number of stars or fork
+-  Lik Profile so that can revist them
+
 
 ### Setup .env file
 
